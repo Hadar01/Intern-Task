@@ -4,7 +4,7 @@ uvicorn==0.27.0
 PyPDF2==3.0.1
 transformers==4.36.2
 sentence-transformers==2.7.0  # Updated version
-torch==2.1.2
+torch==2.7.1
 python-multipart==0.0.9
 huggingface-hub==0.22.2  # Added explicit version
 pymupdf==1.23.0  # Better PDF parsing
